@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Chinatown Coffee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01872795820236,
+          38.90000717159441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "A Baked Joint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01659023761749,
+          38.90226780126366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "La Colombe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02011466026306,
+          38.90104460707291
+        ]
+      }
+    }
+  ]
+}
