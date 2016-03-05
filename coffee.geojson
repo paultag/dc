@@ -224,6 +224,22 @@
           38.908491988588516
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Pleasant Pops"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04081594944,
+          38.91764777390142
+        ]
+      }
     }
   ]
 }
