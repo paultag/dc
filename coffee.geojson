@@ -192,6 +192,22 @@
           38.90387295074778
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ice Cream Jubilee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0013901591301,
+          38.87338978752909
+        ]
+      }
     }
   ]
 }
