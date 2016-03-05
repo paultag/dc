@@ -48,6 +48,38 @@
           38.90104460707291
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sidomo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9999685883522,
+          38.900071881292824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Ebenezers Coffeehouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00329452753067,
+          38.89712857406192
+        ]
+      }
     }
   ]
 }
