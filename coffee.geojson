@@ -160,6 +160,22 @@
           38.90117819927236
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "The Wydown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03223824501038,
+          38.91653962565198
+        ]
+      }
     }
   ]
 }
