@@ -208,6 +208,22 @@
           38.87338978752909
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Peregrine Espresso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99724346399307,
+          38.908491988588516
+        ]
+      }
     }
   ]
 }
