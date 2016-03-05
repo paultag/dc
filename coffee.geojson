@@ -80,6 +80,22 @@
           38.89712857406192
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Swing’s Coffee Roasters"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04038143157959,
+          38.8981430894812
+        ]
+      }
     }
   ]
 }
