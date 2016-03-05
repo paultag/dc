@@ -96,6 +96,22 @@
           38.8981430894812
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Teaism"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03861653804779,
+          38.90036829270609
+        ]
+      }
     }
   ]
 }
