@@ -196,6 +196,9 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Filter Coffeehouse & Espresso Bar",
+        "power": "No",
+        "wifi": "No (explicitly)",
+        "atmosphere": "Low-tech chill",
         "crowdedness": ""
       },
       "geometry": {
