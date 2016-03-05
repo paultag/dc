@@ -112,6 +112,22 @@
           38.90036829270609
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Dolcezza Gelato Dupont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04561978578568,
+          38.912810193607015
+        ]
+      }
     }
   ]
 }
