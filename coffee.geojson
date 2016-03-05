@@ -7,7 +7,11 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Chinatown Coffee"
+        "name": "Chinatown Coffee",
+        "crowdedness": "Varies",
+        "power": "",
+        "wifi": "Yes",
+        "atmosphere": "Intimate"
       },
       "geometry": {
         "type": "Point",
@@ -23,7 +27,11 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "A Baked Joint"
+        "name": "A Baked Joint",
+        "crowdedness": "No",
+        "power": "No",
+        "wifi": "No",
+        "atmosphere": "Hip"
       },
       "geometry": {
         "type": "Point",
@@ -39,7 +47,11 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "La Colombe"
+        "name": "La Colombe",
+        "crowdedness": "Yes",
+        "atmosphere": "Hip",
+        "power": "No",
+        "wifi": "No"
       },
       "geometry": {
         "type": "Point",
@@ -55,7 +67,11 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Sidomo"
+        "name": "Sidomo",
+        "crowdedness": "Yes",
+        "power": "",
+        "atmosphere": "Intimate",
+        "wifi": "No"
       },
       "geometry": {
         "type": "Point",
@@ -71,7 +87,11 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Ebenezers Coffeehouse"
+        "name": "Ebenezers Coffeehouse",
+        "wifi": "Unreliable",
+        "crowdedness": "Varies",
+        "power": "Yes",
+        "atmosphere": "Work"
       },
       "geometry": {
         "type": "Point",
@@ -87,7 +107,11 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Swing’s Coffee Roasters"
+        "name": "Swing’s Coffee Roasters",
+        "wifi": "No",
+        "power": "No",
+        "crowdedness": "Yes",
+        "atmosphere": "Carry-out"
       },
       "geometry": {
         "type": "Point",
@@ -103,7 +127,9 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Teaism"
+        "name": "Teaism",
+        "power": "",
+        "crowdedness": ""
       },
       "geometry": {
         "type": "Point",
@@ -119,7 +145,11 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Dolcezza Gelato Dupont"
+        "name": "Dolcezza Gelato Dupont",
+        "crowdedness": "Varies",
+        "power": "",
+        "wifi": "Yes",
+        "atmosphere": "Intimate"
       },
       "geometry": {
         "type": "Point",
@@ -135,7 +165,11 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Filter Coffeehouse and Espresso Bar"
+        "name": "Filter Coffeehouse and Espresso Bar",
+        "crowdedness": "No",
+        "power": "",
+        "wifi": "",
+        "atmosphere": "Quiet"
       },
       "geometry": {
         "type": "Point",
@@ -151,7 +185,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Filter Coffeehouse & Espresso Bar"
+        "name": "Filter Coffeehouse & Espresso Bar",
+        "crowdedness": ""
       },
       "geometry": {
         "type": "Point",
@@ -167,7 +202,11 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "The Wydown"
+        "name": "The Wydown",
+        "crowdedness": "Yes",
+        "power": "No",
+        "wifi": "No",
+        "atmosphere": "Intimate"
       },
       "geometry": {
         "type": "Point",
@@ -183,7 +222,11 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Baked & Wired"
+        "name": "Baked & Wired",
+        "crowdedness": "Yes",
+        "power": "Yes",
+        "wifi": "Yes",
+        "atmosphere": "Intimate"
       },
       "geometry": {
         "type": "Point",
@@ -199,7 +242,11 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Ice Cream Jubilee"
+        "name": "Ice Cream Jubilee",
+        "crowdedness": "Varies",
+        "wifi": "",
+        "power": "",
+        "atmosphere": ""
       },
       "geometry": {
         "type": "Point",
@@ -215,7 +262,11 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Peregrine Espresso"
+        "name": "Peregrine Espresso",
+        "crowdedness": "Yes",
+        "atmosphere": "Carry-out",
+        "power": "No",
+        "wifi": "No"
       },
       "geometry": {
         "type": "Point",
@@ -231,7 +282,11 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Pleasant Pops"
+        "name": "Pleasant Pops",
+        "crowdedness": "Varies",
+        "wifi": "Varies",
+        "power": "Yes",
+        "atmosphere": "Work"
       },
       "geometry": {
         "type": "Point",
@@ -247,7 +302,11 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "The Potter's House"
+        "name": "The Potter's House",
+        "crowdedness": "Varies",
+        "power": "Yes",
+        "wifi": "Yes",
+        "atmosphere": "Work"
       },
       "geometry": {
         "type": "Point",
@@ -263,7 +322,11 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Peregrine"
+        "name": "Peregrine Espresso",
+        "wifi": "Unreliable",
+        "crowdedness": "Yes",
+        "atmosphere": "Intimate",
+        "power": "No"
       },
       "geometry": {
         "type": "Point",
@@ -279,7 +342,11 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Peregrine"
+        "name": "Peregrine Espresso",
+        "wifi": "No",
+        "crowdedness": "Varies",
+        "power": "No",
+        "atmosphere": "Carry-out"
       },
       "geometry": {
         "type": "Point",
@@ -295,7 +362,11 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "La Colombe"
+        "name": "La Colombe",
+        "crowdedness": "No",
+        "power": "No",
+        "wifi": "No",
+        "atmosphere": "Hip"
       },
       "geometry": {
         "type": "Point",
