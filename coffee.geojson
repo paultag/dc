@@ -176,6 +176,22 @@
           38.91653962565198
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Baked & Wired"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06039875745773,
+          38.90387295074778
+        ]
+      }
     }
   ]
 }
