@@ -272,6 +272,22 @@
           38.88516204356269
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Peregrine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03223556280136,
+          38.91326516559442
+        ]
+      }
     }
   ]
 }
