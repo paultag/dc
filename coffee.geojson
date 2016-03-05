@@ -128,6 +128,22 @@
           38.912810193607015
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Filter Coffeehouse and Espresso Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0450833439827,
+          38.91370969962751
+        ]
+      }
     }
   ]
 }
