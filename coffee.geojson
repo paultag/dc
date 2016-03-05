@@ -240,6 +240,22 @@
           38.91764777390142
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "The Potter's House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0387452840805,
+          38.92496195301516
+        ]
+      }
     }
   ]
 }
