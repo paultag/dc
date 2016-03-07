@@ -134,25 +134,6 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Teaism",
-        "power": "",
-        "crowdedness": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.03861653804779,
-          38.90036829270609
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "coffee",
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
         "name": "Dolcezza Gelato Dupont",
         "crowdedness": "Varies",
         "power": "",
