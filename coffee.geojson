@@ -398,6 +398,26 @@
           38.910612
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Big Bear",
+        "crowdedness": "no",
+        "power": "yes",
+        "wifi": "yes",
+        "atmosphere": "hip"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01244,
+          38.9127
+        ]
+      }
     }
   ]
 }
