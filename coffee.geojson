@@ -378,6 +378,26 @@
           38.9065362916739
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Compass",
+        "crowdedness": "yes",
+        "power": "no",
+        "wifi": "yes",
+        "atmosphere": "crowded"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.021706,
+          38.910612
+        ]
+      }
     }
   ]
 }
