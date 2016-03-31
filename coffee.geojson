@@ -397,6 +397,18 @@
           38.9127
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Java Shack",
+        "crowdedness": "No",
+        "power": "Yes",
+        "wifi": "Yes",
+        "atmosphere": "Chill"
     }
   ]
 }
