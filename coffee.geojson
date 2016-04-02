@@ -353,11 +353,11 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.106770,
-          38.879970
+          -77.10677,
+          38.87997
         ]
       }
-    },  
+    },
     {
       "type": "Feature",
       "properties": {
@@ -415,6 +415,26 @@
         "coordinates": [
           -77.01244,
           38.9127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Bump n' Grind",
+        "crowdedness": "no",
+        "power": "yes",
+        "wifi": "yes",
+        "atmosphere": "social"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02950775623322,
+          38.99017815481231
         ]
       }
     }
