@@ -1,0 +1,15 @@
+[
+    {
+        "address": "2507 N. Franklin Road\nArlington, VA 22201",
+        "atmosphere": "small and relaxed",
+        "crowded-weekends": "yes",
+        "name": "Java Shack",
+        "phone": "703.527.9556",
+        "popular-drink": "cappuccino",
+        "power": true,
+        "roasters": [
+            "Commonwealth Joe"
+        ],
+        "wifi": true
+    }
+]

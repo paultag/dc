@@ -1,0 +1,41 @@
+[
+    {
+        "address": "660 Pennsylvania Ave SE\nWashington DC 20003",
+        "atmosphere": "casual and \"community focused\"",
+        "crowded-weekends": "\"crazy crowded\" until after 5 PM",
+        "name": "Peregrine Espresso (Eastern Market)",
+        "phone": "202-629-4381",
+        "popular-drink": "cappuccino",
+        "power": true,
+        "roasters": [
+            "Counter Culture"
+        ],
+        "wifi": true
+    },
+    {
+        "address": "1718 14th St NW\nWashington DC 20009",
+        "atmosphere": "small and \"in and out\"",
+        "crowded-weekends": "yes",
+        "name": "Peregrine Espresso (14th)",
+        "phone": "202-525-5127",
+        "popular-drink": "espresso",
+        "power": true,
+        "roasters": [
+            "Counter Culture"
+        ],
+        "wifi": true
+    },
+    {
+        "address": "1309 5th St NE\nWashington DC 20002",
+        "atmosphere": "in market common place",
+        "crowded-weekends": "yes, very",
+        "name": "Peregrine Espresso (Union Market)",
+        "phone": "202-543-5459",
+        "popular-drink": "latte",
+        "power": false,
+        "roasters": [
+            "Counter Culture"
+        ],
+        "wifi": true
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "address": "1781 Florida Avenue NW\nWashington, DC 20009",
+        "atmosphere": "relaxed chill setting",
+        "crowded-weekends": "yes, very",
+        "name": "Pleasant Pops (Adams Morgan)",
+        "phone": "202.558.5224",
+        "popular-drink": "macchiato",
+        "power": true,
+        "roasters": [
+            "Ceremony Coffees"
+        ],
+        "wifi": true
+    },
+    {
+        "address": "731 15th Street NW\nWashington, DC 20005",
+        "atmosphere": "clean and open but small",
+        "crowded-weekends": "closed on weekends",
+        "name": "Pleasant Pops (15th)",
+        "phone": "202.347.0938",
+        "popular-drink": "drip coffee",
+        "power": true,
+        "roasters": [
+            "Ceremony Coffees"
+        ],
+        "wifi": false
+    }
+]
