@@ -437,6 +437,46 @@
           38.99017815481231
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Colony Club",
+        "crowdedness": "Varies",
+        "power": "Yes",
+        "wifi": "Yes",
+        "atmosphere": "Hip"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02365,
+          38.92957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Qualia Coffee",
+        "crowdedness": "No",
+        "power": "Yes",
+        "wifi": "Yes",
+        "atmosphere": "Bohemian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02457,
+          38.93919
+        ]
+      }
     }
   ]
 }
