@@ -467,7 +467,7 @@
         "name": "Qualia Coffee",
         "crowdedness": "No",
         "power": "Yes",
-        "wifi": "Yes",
+        "wifi": "Weekdays",
         "atmosphere": "Bohemian"
       },
       "geometry": {
