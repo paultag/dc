@@ -477,6 +477,27 @@
           38.93919
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "coffee",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Emissary",
+        "crowdedness": "No",
+        "power": "Limited",
+        "wifi": "Yes, but slow",
+        "atmosphere": "Open, bar-like"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.046375,
+          38.909509
+        ]
+      }
     }
   ]
 }
