@@ -481,21 +481,20 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "coffee",
-        "marker-color": "#7e7e7e",
+         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
-        "name": "Emissary",
+        "name": "Pleasant Pops",
         "crowdedness": "No",
-        "power": "Limited",
-        "wifi": "Yes, but slow",
-        "atmosphere": "Open, bar-like"
+        "power": "No",
+        "wifi": "No",
+        "atmosphere": "Cozy"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.046375,
-          38.909509
+          -77.03345060348511,
+          38.89948949188401
         ]
       }
     }
