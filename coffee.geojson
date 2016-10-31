@@ -517,6 +517,26 @@
           38.90100912160268
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "La Colombe",
+        "crowdedness": "yes",
+        "power": "no",
+        "wifi": "yes",
+        "atmosphere": "crowded"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0024174451828,
+          38.90537370137899
+        ]
+      }
     }
   ]
 }
