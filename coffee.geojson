@@ -547,7 +547,7 @@
         "marker-symbol": "",
         "name": "Sweet Science",
         "crowdedness": "no",
-        "power": "no",
+        "power": "limited/hidden",
         "wifi": "yes",
         "atmosphere": "cozy basement warehouse",
         "seating": "range of chairs, tables, couches"
