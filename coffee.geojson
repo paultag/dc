@@ -537,6 +537,28 @@
           38.90537370137899
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "coffee",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Sweet Science",
+        "crowdedness": "no",
+        "power": "no",
+        "wifi": "yes",
+        "atmosphere": "cozy basement warehouse",
+        "seating": "range of chairs, tables, couches"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.043946,
+          38.921371
+        ]
+      }
     }
   ]
 }
