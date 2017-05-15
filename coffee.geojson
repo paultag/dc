@@ -559,6 +559,28 @@
           38.921371
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "coffee",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tryst",
+        "crowdedness": "not usually",
+        "power": "limited/hidden",
+        "wifi": "yes",
+        "atmosphere": "big open room",
+        "seating": "table service only. group service, individual tables, couches"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.042048,
+          38.921969
+        ]
+      }
     }
   ]
 }
