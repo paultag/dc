@@ -581,6 +581,28 @@
           38.921969
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "coffee",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Tynan Coffee & Tea",
+        "crowdedness": "varies",
+        "power": "limited/hidden",
+        "wifi": "yes",
+        "atmosphere": "big open room",
+        "seating": "mix of chairs, tables, and high tops"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0355437,
+          38.928553
+        ]
+      }
     }
   ]
 }
