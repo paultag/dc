@@ -466,9 +466,11 @@
         "marker-symbol": "",
         "name": "Qualia Coffee",
         "crowdedness": "No",
-        "power": "Yes",
-        "wifi": "Weekdays",
-        "atmosphere": "Bohemian"
+        "power": "Yes, at bar seating",
+        "wifi": "No",
+        "atmosphere": "Bohemian",
+        "seating": "range of chairs, tables, couches; nice outdoor patio space"
+
       },
       "geometry": {
         "type": "Point",
