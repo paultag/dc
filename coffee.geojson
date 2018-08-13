@@ -113,6 +113,27 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "",
+        "name": "Swing’s Coffee Roasters",
+        "wifi": "No",
+        "power": "No",
+        "crowdedness": "Yes",
+        "atmosphere": "Carry-out"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04038143157959,
+          38.8981430894812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "coffee",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "name": "Dolcezza Gelato Dupont",
         "crowdedness": "Varies",
         "power": "",
