@@ -231,28 +231,7 @@
           38.90387295074778
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "type": "coffee",
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "name": "Ice Cream Jubilee",
-        "crowdedness": "Varies",
-        "wifi": "",
-        "power": "",
-        "atmosphere": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.0013901591301,
-          38.87338978752909
-        ]
-      }
-    },
+    },    
     {
       "type": "Feature",
       "properties": {
