@@ -626,6 +626,27 @@
           38.928553
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "coffee",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Philz",
+        "crowdedness": "Yes",
+        "power": "Yes",
+        "wifi": "Yes",
+        "atmosphere": "Hip"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00111657381058,
+          38.87477006958416
+        ]
+      }
     }
   ]
 }
